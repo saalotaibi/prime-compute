@@ -260,3 +260,4 @@ if (arr == NULL) {
 ---
 
 _Remember: The goal is not just to complete the lab, but to understand why parallel computing matters and how to do it effectively!_
+
